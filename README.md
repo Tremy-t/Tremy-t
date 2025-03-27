@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Tremy-t
-- 👀 I’m interested in web design, tech tutorials
+- 👋 Hi, I’m @Tremy-t, a student and self taught frontend developer.Passionate about web design and tech tutorials.
 
 
 ## 🌐 Socials:
@@ -17,6 +16,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tremy-t&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+Let's Collaborate!
+I'm always open to collaboration and new opportunities. If you have any ideas, questions, or just want to chat, feel free to reach out!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
