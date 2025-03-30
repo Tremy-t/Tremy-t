@@ -21,15 +21,9 @@
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Tremy-t&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Tremy-t&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/ tremy-tailor-27a709353" target="_blank">Tremy Tailor</a> Email: tremytailor@gmail.com</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.thekrawler._) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_uncle_drew._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RyoDabi) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 🏆 GitHub Trophies
@@ -38,8 +32,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tremy-t&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Connect with me
 
-Let's Collaborate!
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/ tremy-tailor-27a709353" target="_blank">Tremy Tailor</a> Email: tremytailor@gmail.com</p>
+
 I'm always open to collaboration and new opportunities. If you have any ideas, questions, or just want to chat, feel free to reach out!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
