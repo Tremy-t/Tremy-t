@@ -46,7 +46,7 @@
 <a href="https://linkedin.com/in/tremy-tailor-27a709353" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.tiktok.com/_uncle_drew._" target="_blank">
+<a href="https://www.tiktok.com/@_uncle_drew._" target="_blank">
 <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white alt=Tiktok style="margin-bottom: 5px;" />
 </a>  
 <a href="https://instagram.com/_.thekrawler._" target="_blank">
