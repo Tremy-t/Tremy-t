@@ -23,9 +23,6 @@
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.thekrawler._) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_uncle_drew._) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RyoDabi) 
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tremy-t&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
