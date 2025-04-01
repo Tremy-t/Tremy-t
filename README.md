@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
 
 ## GitHub Stats
