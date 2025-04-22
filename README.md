@@ -10,7 +10,7 @@
 ## My Skills
 
 <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<ing src ="https://camo.githubusercontent.com/3ef24ac509b85e2ba13d1078eef5d4caceba9f1b4a91c0891f84a3da564f889d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3162373362613f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
+<img src ="https://camo.githubusercontent.com/3ef24ac509b85e2ba13d1078eef5d4caceba9f1b4a91c0891f84a3da564f889d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3162373362613f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
 <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
