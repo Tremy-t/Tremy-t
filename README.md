@@ -45,13 +45,13 @@
 <a href="https://dev.to/tremy_tailor_49880f706633" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/tremy-tailor-27a709353" target="_blank">
+<a href="https://linkedin.com/in/Andrew-osei" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.tiktok.com/@_uncle_drew._" target="_blank">
+<a href="https://www.tiktok.com/uncledrew.dev" target="_blank">
 <img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white alt=Tiktok style="margin-bottom: 5px;" />
 </a>  
-<a href="https://instagram.com/_.thekrawler._" target="_blank">
+<a href="https://instagram.com/uncledrew.dev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
