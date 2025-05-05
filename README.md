@@ -1,7 +1,8 @@
 ## About Me
 
 👋 Hey there, I'm Tremy, a passionate jnr frontend web developer always looking for ways to create intuitive, functional, and visually appealing websites. Currently, I'm exploring, AI-powered tools, and full-stack development. I enjoy working on projects that solve real-world problems. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, sharing my knowledge with the developer or watching anime😊.
-![ChatGPT Image Apr 28, 2025, 01_06_01 AM](https://github.com/user-attachments/assets/ab1b2ba6-c7d6-4ec9-9639-fcebd9abb971)
+![ChatGPT Image Apr 28, 2025, 01_06_01 AM](https://github.com/user-attachments/assets/7dcbdbbe-4496-465e-94ef-320289902ecf)
+
 
 ## My Projects
 -Automobile Website : https://automobile-website-mu.vercel.app/ <br> <br>
