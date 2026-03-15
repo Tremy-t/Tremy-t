@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Uncle%20Drew&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product%20Builder%20%7C%20Frontend-Focused%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Technology%20is%20only%20as%20meaningful%20as%20the%20questions%20it%20helps%20us%20ask.%20Every%20line%20of%20code%2C%20every%20AI-generated%20idea%2C%20is%20a%20conversation%20with%20curiosity%20itself.%20The%20tools%20we%20build%20are%20mirrors%20of%20the%20life%20we%20choose%20to%20explore." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Fork%20life%2C%20push%20curiosity%2C%20merge%20understanding." alt="Typing introduction" />
 </p>
 
 <p align="center">
