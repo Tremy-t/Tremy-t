@@ -1,67 +1,58 @@
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Uncle%20Drew&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI-Assisted%20Product%20Builder%20%7C%20Frontend-Focused%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
-👋 Hey there, I'm Tremy, a passionate jnr frontend web developer always looking for ways to create intuitive, functional, and visually appealing websites. Currently, I'm exploring, AI-powered tools, and full-stack development. I enjoy working on projects that solve real-world problems. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, sharing my knowledge with the developer or watching anime😊.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Technology%20is%20only%20as%20meaningful%20as%20the%20questions%20it%20helps%20us%20ask.%20Every%20line%20of%20code%2C%20every%20AI-generated%20idea%2C%20is%20a%20conversation%20with%20curiosity%20itself.%20The%20tools%20we%20build%20are%20mirrors%20of%20the%20life%20we%20choose%20to%20explore." alt="Typing introduction" />
+</p>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Tremy-t">
+    <img src="https://komarev.com/ghpvc/?username=Tremy-t&label=Profile%20views&color=00FFFF&style=flat-square" alt="Tremy-t's profile views" />
+  </a>
+</p>
 
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
-
-## My Projects
--Automobile Website : https://automobile-website-mu.vercel.app/ <br> <br>
--Construction Website : https://drewconstruct.netlify.app/ <br> <br>
--Crypto Monitoring Tool : https://tremy-t-crypto.netlify.app/
-
-## My Skills
-
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
-<img src ="https://camo.githubusercontent.com/3ef24ac509b85e2ba13d1078eef5d4caceba9f1b4a91c0891f84a3da564f889d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3162373362613f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"> 
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=Tremy-t&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Tremy-t&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=Tremy-t&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+## 📌 About Me
+- 🌱 Currently exploring AI-assisted workflows to rapidly prototype web tools
+- 👯 Looking to collaborate on frontend dashboards, browser extensions, and AI experiments
+- 🤝 Seeking feedback on small, practical web projects and UX/UI improvements
 
 
+## 🧠 My Focus Areas
+-Web Development
+-AI-Enhanced Tools
+-Open-Source Contribution
+-Frontend UI Design
+-Browser Extensions
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tremy-t&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-## 🌐 Socials:
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Tremy-t">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tremy-t&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Tremy-t's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Tremy-t&theme=dark&hide_border=true&cache_seconds=86400" alt="Tremy-t's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Tremy-t&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Uncle Drew's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tremy-t&theme=dark&radius=10" alt="Tremy-t's Activity Graph" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Tremy-t&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align="center">
-<a href="https://github.com/Tremy-t" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RyoDabi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/tremy_tailor_49880f706633" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Andrew-osei" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.tiktok.com/@androdojo" target="_blank">
-<img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white alt=Tiktok style="margin-bottom: 5px;" />
-</a>  
-<a href="https://instagram.com/uncledrew.dev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-I'm always open to collaboration and new opportunities. If you have any ideas, questions, or just want to chat, feel free to reach out!
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-Tremy-t/Tremy-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Tremy-t">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tremy-t&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/uncledrewdev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://x.com/UncleDrewDev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
