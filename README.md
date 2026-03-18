@@ -35,6 +35,7 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Tremy-t&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Uncle Drew's GitHub Trophies" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tremy-t&theme=dark" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Tremy-t&theme=dark&radius=10" alt="Tremy-t's Activity Graph" />
