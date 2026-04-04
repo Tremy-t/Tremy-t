@@ -19,11 +19,11 @@
 
 
 ## 🧠 My Focus Areas
--Web Development
--AI-Enhanced Tools
--Open-Source Contribution
--Frontend UI Design
--Browser Extensions
+- Web Development
+- AI-Enhanced Tools
+- Open-Source Contribution
+- Frontend UI Design
+- Browser Extensions
 
 
 ## 📊 GitHub Stats & Trophies
