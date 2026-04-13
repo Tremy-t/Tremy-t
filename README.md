@@ -49,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> -->
-  <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,bash,mint&theme=dark" width="50%"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,js,html,css,bash,mint&theme=dark" width="10rem"/>
 </p>
 
 ##
