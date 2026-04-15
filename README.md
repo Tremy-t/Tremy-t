@@ -62,9 +62,9 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://uncledrew.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/UncleDrewDev"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+  <a href="https://uncledrew.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/UncleDrewDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/></a>
 </p>
 
 <picture>
