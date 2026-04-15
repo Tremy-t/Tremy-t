@@ -61,11 +61,14 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://uncledrew.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/UncleDrewDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/></a>
+<!-- <p align="center"> -->
+  <!-- <a href="https://uncledrew.vercel.app"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp; -->
+  <!-- <a href="https://x.com/UncleDrewDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/></a> -->
+  <p align="center">
+<a href="https://uncledrew.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a><a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a><a href="https://x.com/UncleDrewDev"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
 </p>
+<!-- </p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
