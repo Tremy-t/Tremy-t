@@ -61,12 +61,17 @@
 </p>
 
 ## 🔗 Connect with Me
-<p align="center" display= "flex">
+<p align="center">
   <a href="https://uncledrew.vercel.app" target="_blank">
-  <img width="40" height="40" alt="connect with me" src="https://github.com/user-attachments/assets/eb0434df-4379-497e-b291-c406b5f604eb" /></a>
-  <a href="https://www.linkedin.com/in/uncledrewdev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> 
-  <a href="https://x.com/UncleDrewDev" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" alt="Twitter" width="40" height="40" style="margin: 0 8px;"/></a>
-  </p>
+    <img width="40" height="40" src="https://github.com/user-attachments/assets/eb0434df-4379-497e-b291-c406b5f604eb" />
+  </a>
+  <a href="https://www.linkedin.com/in/uncledrewdev" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" />
+  </a> 
+  <a href="https://x.com/UncleDrewDev" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" width="40" height="40" />
+  </a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
