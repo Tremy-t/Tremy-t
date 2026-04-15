@@ -62,15 +62,9 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://uncledrew.vercel.app" target="_blank">
-    <img width="40" height="40" src="https://github.com/user-attachments/assets/eb0434df-4379-497e-b291-c406b5f604eb" />
-  </a>
-  <a href="https://www.linkedin.com/in/uncledrewdev" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" width="40" height="40" />
-  </a> 
-  <a href="https://x.com/UncleDrewDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Twitter.svg" width="40" height="40" />
-  </a>
+  <a href="https://uncledrew.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/UncleDrewDev"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
 </p>
 
 <picture>
