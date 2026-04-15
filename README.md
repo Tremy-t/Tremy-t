@@ -66,7 +66,7 @@
   <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;&nbsp; -->
   <!-- <a href="https://x.com/UncleDrewDev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="40"/></a> -->
   <p align="center">
-<a href="https://uncledrew.vercel.app"><img src="https://github.com/user-attachments/assets/eb0434df-4379-497e-b291-c406b5f604eb"/></a> <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a> <a href="https://x.com/UncleDrewDev"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
+<a href="https://uncledrew.vercel.app"><img src="https://github.com/user-attachments/assets/eb0434df-4379-497e-b291-c406b5f604eb" height="40px" width= "40px/></a> <a href="https://www.linkedin.com/in/uncledrewdev"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a> <a href="https://x.com/UncleDrewDev"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>
 </p>
 <!-- </p> -->
 
